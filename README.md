@@ -13,7 +13,7 @@ I'm passionate about building modern, responsive websites and web applications.
 - 🌱 Currently learning **React.js & Node.js**
 - 💻 Skilled in HTML, CSS, JavaScript, PHP & MySQL
 - 🚀 Interested in Full Stack Development
-- 📫 Email: your-email@example.com
+- 📫 Email: syedabdulrahman1000@gmail.com
 
 ---
 

@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm M Syed Abdul Rahman</h1>
 
-<!--
-**MSyedAbdulRahman/MSyedAbdulRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full Stack Web Developer | UI/UX Designer | SEO Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I'm passionate about building modern, responsive websites and web applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🌱 Currently learning **React.js & Node.js**
+- 💻 Skilled in HTML, CSS, JavaScript, PHP & MySQL
+- 🚀 Interested in Full Stack Development
+- 📫 Email: your-email@example.com
+
+---
+
+### 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,git,github,vscode,photoshop" />
+</p>

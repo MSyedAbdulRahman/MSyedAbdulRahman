@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M Syed Abdul Rahman</h1>
 
 <h3 align="center">
-💻 Full Stack Web Developer | 🚀 SEO Enthusiast | 🌐 UI/UX Designer
+💻 Full Stack Web Developer | 🚀 SEO Enthusiast |
 </h3>
 
 <p align="center">

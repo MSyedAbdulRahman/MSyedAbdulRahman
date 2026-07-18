@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M Syed Abdul Rahman</h1>
 
-<h3 align="center">Full Stack Web Developer | UI/UX Designer | SEO Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | SEO Enthusiast</h3>
 
 <p align="center">
 I'm passionate about building modern, responsive websites and web applications.
